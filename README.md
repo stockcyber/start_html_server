@@ -1,4 +1,4 @@
-![HTML5 Banner](https://www.w3c.br/wp-content/uploads/2010/09/Prancheta-1.png)
+![START HTML SERVER Banner](https://i.pinimg.com/736x/00/34/7f/00347f71bd49a2f65e4602f10d0495fc.jpg)
 
 <h1 align="center">START HTML SERVER</h1>
 
@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Development-orange?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -28,11 +29,11 @@
 
 ## 🇧🇷 Português
 
-### 📌 Sobre
+### 📌 Sobre o projeto
 
 O **START HTML SERVER** é um projeto desenvolvido em Python utilizando Flask, criado para facilitar a execução de páginas HTML em um servidor local.
 
-A ideia é simplificar o processo: coloque seus arquivos na pasta `templates` e inicie o servidor.
+A ideia é simples: coloque seus arquivos na pasta `templates` e inicie o servidor.
 
 ### ⚙️ Como utilizar
 
@@ -50,10 +51,10 @@ py start.py
 
 | Formato | Tipo |
 |---|---|
-| PNG | Imagens |
-| ICO | Ícones |
-| MP3 | Áudio |
-| MP4 | Vídeo |
+| `.png` | Imagens |
+| `.ico` | Ícones |
+| `.mp3` | Áudio |
+| `.mp4` | Vídeo |
 
 ### 🚧 Desenvolvimento
 
@@ -89,10 +90,10 @@ py start.py
 
 | Format | Type |
 |---|---|
-| PNG | Images |
-| ICO | Icons |
-| MP3 | Audio |
-| MP4 | Video |
+| `.png` | Images |
+| `.ico` | Icons |
+| `.mp3` | Audio |
+| `.mp4` | Video |
 
 ### 🚧 Development
 
@@ -128,10 +129,10 @@ py start.py
 
 | 形式 | 種類 |
 |---|---|
-| PNG | 画像 |
-| ICO | アイコン |
-| MP3 | 音声 |
-| MP4 | 動画 |
+| `.png` | 画像 |
+| `.ico` | アイコン |
+| `.mp3` | 音声 |
+| `.mp4` | 動画 |
 
 ### 🚧 開発状況
 
@@ -142,6 +143,16 @@ py start.py
 - [ ] JavaScriptの自動サポート
 
 ---
+
+## 🤖 Credits
+
+<p align="center">
+  README written with AI because I'm too lazy to write it myself. 💀
+</p>
+
+<p align="center">
+  Feito com IA porque eu sou preguiçoso pra caralho. KKKKK
+</p>
 
 <p align="center">
   Made with ❤️ and Python
