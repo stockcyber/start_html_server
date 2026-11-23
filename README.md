@@ -146,18 +146,14 @@ py start.py
 
 ## 🤖 Credits
 
-<p align="center">
-  README written with AI because I'm too lazy to write it myself. 💀
-</p>
+README created with AI because I was too lazy to write all this documentation myself. 💀
 
-<p align="center">
-  Feito com IA porque eu sou preguiçoso pra caralho. KKKKK
-</p>
+**The project code was developed by Stock.**
+
+---
 
 <p align="center">
   Made with ❤️ and Python
-</p>
-
-<p align="center">
+  <br>
   <b>STOCK © 2026</b>
 </p>
