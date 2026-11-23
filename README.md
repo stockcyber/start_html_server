@@ -144,6 +144,9 @@ py start.py
 
 ---
 
+# PREVIEW
+https://www.youtube.com/watch?v=5XkWwv_V0ac
+
 ## 🤖 Credits
 
 README created with AI because I was too lazy to write all this documentation myself. 💀
