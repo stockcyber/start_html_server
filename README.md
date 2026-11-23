@@ -1,97 +1,152 @@
 ![HTML5 Banner](https://www.w3c.br/wp-content/uploads/2010/09/Prancheta-1.png)
 
-# START HTML SERVER
+<h1 align="center">START HTML SERVER</h1>
 
-**A simple Flask-based HTML server.**
+<p align="center">
+  A simple local HTML server powered by Python and Flask.
+</p>
 
-[🇧🇷 Português](#-português) | [🇺🇸 English](#-english) | [🇯🇵 日本語](#-日本語)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Developed by Stock</b>
+</p>
+
+---
+
+<p align="center">
+  <a href="#-português">🇧🇷 Português</a> •
+  <a href="#-english">🇺🇸 English</a> •
+  <a href="#-日本語">🇯🇵 日本語</a>
+</p>
 
 ---
 
 ## 🇧🇷 Português
 
-### Sobre o projeto
+### 📌 Sobre
 
-Um servidor local desenvolvido em Python utilizando Flask, criado para facilitar a execução de páginas HTML e o carregamento de arquivos do site.
+O **START HTML SERVER** é um projeto desenvolvido em Python utilizando Flask, criado para facilitar a execução de páginas HTML em um servidor local.
 
-### Como utilizar
+A ideia é simplificar o processo: coloque seus arquivos na pasta `templates` e inicie o servidor.
 
-1. Coloque os arquivos do seu site dentro da pasta `templates`.
-2. Coloque imagens, músicas, vídeos e ícones na pasta `templates`.
-3. Abra o terminal na pasta do projeto.
-4. Execute:
+### ⚙️ Como utilizar
+
+**1.** Coloque os arquivos do seu site na pasta `templates`.
+
+**2.** Adicione imagens, músicas, vídeos e ícones na mesma pasta.
+
+**3.** Abra o terminal na pasta do projeto e execute:
 
 ```bash
 py start.py
 ```
 
-### Formatos suportados
+### 🗂️ Formatos suportados
 
-- `.mp3` — Áudio
-- `.mp4` — Vídeo
-- `.png` — Imagens
-- `.ico` — Ícones
+| Formato | Tipo |
+|---|---|
+| PNG | Imagens |
+| ICO | Ícones |
+| MP3 | Áudio |
+| MP4 | Vídeo |
 
-**Observação:** O suporte ao CSS ainda está em desenvolvimento.
+### 🚧 Desenvolvimento
+
+- [x] Servidor Flask
+- [x] Renderização HTML
+- [x] Carregamento de arquivos de mídia
+- [ ] Melhorias no suporte CSS
+- [ ] Suporte automático a JavaScript
 
 ---
 
 ## 🇺🇸 English
 
-### About
+### 📌 About
 
-A local web server developed in Python using Flask, designed to make running HTML pages and loading website assets easier.
+**START HTML SERVER** is a Python project powered by Flask, designed to make running HTML pages through a local server easier.
 
-### How to use
+The idea is simple: place your files inside the `templates` folder and start the server.
 
-1. Place your website files inside the `templates` folder.
-2. Place images, music, videos and icons inside `templates`.
-3. Open a terminal in the project directory.
-4. Run:
+### ⚙️ How to use
+
+**1.** Place your website files inside the `templates` folder.
+
+**2.** Add images, music, videos and icons to the same folder.
+
+**3.** Open a terminal in the project directory and run:
 
 ```bash
 py start.py
 ```
 
-### Supported formats
+### 🗂️ Supported formats
 
-- `.mp3` — Audio
-- `.mp4` — Video
-- `.png` — Images
-- `.ico` — Icons
+| Format | Type |
+|---|---|
+| PNG | Images |
+| ICO | Icons |
+| MP3 | Audio |
+| MP4 | Video |
 
-**Note:** CSS support is still under development.
+### 🚧 Development
+
+- [x] Flask server
+- [x] HTML rendering
+- [x] Media file loading
+- [ ] Improved CSS support
+- [ ] Automatic JavaScript support
 
 ---
 
 ## 🇯🇵 日本語
 
-### プロジェクトについて
+### 📌 プロジェクトについて
 
-Flaskを使用してPythonで開発されたローカルWebサーバーです。HTMLページの実行とウェブサイトのファイル読み込みを簡単にするために作成されました。
+**START HTML SERVER** は、Flaskを使用してPythonで開発されたローカルHTMLサーバーです。
 
-### 使用方法
+`templates` フォルダーにファイルを配置して、サーバーを起動するだけで使用できます。
 
-1. ウェブサイトのファイルを `templates` フォルダーに入れます。
-2. 画像、音楽、動画、アイコンも `templates` フォルダーに入れます。
-3. プロジェクトフォルダーでターミナルを開きます。
-4. 次のコマンドを実行します。
+### ⚙️ 使用方法
+
+**1.** ウェブサイトのファイルを `templates` フォルダーに入れます。
+
+**2.** 画像、音楽、動画、アイコンも同じフォルダーに入れます。
+
+**3.** ターミナルで次のコマンドを実行します。
 
 ```bash
 py start.py
 ```
 
-### 対応フォーマット
+### 🗂️ 対応フォーマット
 
-- `.mp3` — 音声
-- `.mp4` — 動画
-- `.png` — 画像
-- `.ico` — アイコン
+| 形式 | 種類 |
+|---|---|
+| PNG | 画像 |
+| ICO | アイコン |
+| MP3 | 音声 |
+| MP4 | 動画 |
 
-**注意:** CSSのサポートは現在開発中です。
+### 🚧 開発状況
+
+- [x] Flaskサーバー
+- [x] HTMLレンダリング
+- [x] メディアファイルの読み込み
+- [ ] CSSサポートの改善
+- [ ] JavaScriptの自動サポート
 
 ---
 
-## Credits
+<p align="center">
+  Made with ❤️ and Python
+</p>
 
-Developed by **Stock**.
+<p align="center">
+  <b>STOCK © 2026</b>
+</p>
